@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './leo.component.css',
 })
 export class LeoComponent {
-  title = 'first';
+  
 }
